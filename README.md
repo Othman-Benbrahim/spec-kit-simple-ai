@@ -6,7 +6,7 @@
 
 **Spec Kit Simple AI** est une application locale, autonome et pensée pour les débutants. Elle permet de transformer une idée de projet en documents structurés grâce à une IA, sans devoir utiliser Git, le terminal de façon avancée, React, Vite ou le workflow complet de Spec Kit officiel.
 
-L'application s'inspire de la logique du **Spec-Driven Development** : avant de coder, on clarifie l'idée, on rédige un cahier des charges, on prépare un plan, puis on découpe le projet en tâches.
+L'application s'inspire de la logique du [**Spec-Driven Development**](https://github.com/github/spec-kit) : avant de coder, on clarifie l'idée, on rédige un cahier des charges, on prépare un plan, puis on découpe le projet en tâches.
 
 ```text
 Idée floue
