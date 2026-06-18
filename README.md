@@ -500,9 +500,8 @@ Améliorations futures possibles :
 
 ## Licence
 
-À définir selon ton choix.
 
-Pour un projet open source simple, tu peux utiliser MIT.
+MIT.
 
 ---
 
